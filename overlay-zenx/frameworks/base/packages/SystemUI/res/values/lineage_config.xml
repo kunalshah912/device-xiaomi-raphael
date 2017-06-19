@@ -19,4 +19,7 @@
 
     <!-- Whether to use fingerprint pressed image -->
     <bool name="config_fodPressedImage">false</bool>
+
+    <!-- Doze: check proximity sensor before pulsing? -->
+    <bool name="doze_proximity_check_before_pulse">false</bool>
 </resources>
