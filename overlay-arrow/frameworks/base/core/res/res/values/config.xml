@@ -74,4 +74,7 @@
     <integer name="config_maxVisibleNotificationIconsWhenDark">8</integer>
     <bool name="config_batteryInQSPanel">false</bool>
     
+
+    <!-- Device specific doze package -->
+    <string name="config_customDozePackage">org.lineageos.settings.doze/org.lineageos.settings.doze.DozeSettingsActivity</string>
 </resources>
