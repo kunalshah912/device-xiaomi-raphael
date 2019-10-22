@@ -81,6 +81,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.dbg.wfc_avail_ovr=1 \
     persist.radio.NO_STAPA=1 \
     persist.sys.cust.lte_config=true \
+    persist.sys.fflag.override.settings_network_and_internet_v2=true \
     persist.radio.VT_CAM_INTERFACE=1 \
     persist.radio.VT_ENABLE=1 \
     persist.radio.volte.dan_support=true \
