@@ -395,6 +395,9 @@
     <!-- Specifies the maximum burn-in offset vertically. -->
     <integer name="config_burnInProtectionMaxVerticalOffset">40</integer>
 
+    <!-- If true, the camera will be used more often. -->
+    <bool name="config_adaptive_sleep_available">false</bool>
+
     <!-- Smart Charging -->
     <bool name="config_deviceSupportSmartCharging">true</bool>
     <bool name="config_smartChargingAvailable">true</bool>
