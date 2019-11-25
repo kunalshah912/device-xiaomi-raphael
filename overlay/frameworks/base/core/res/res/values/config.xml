@@ -823,5 +823,8 @@
 
     <!-- Whether device supports double tap to wake -->
     <bool name="config_supportDoubleTapWake">true</bool>
+
+    <!-- Whether to use scaled brightness (set -1 to disable) -->
+    <integer name="config_useScaleBrightness">2047</integer>
 </resources>
 
