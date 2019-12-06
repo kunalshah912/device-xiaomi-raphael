@@ -48,6 +48,7 @@ import java.util.List;
 
 import vendor.xiaomi.hardware.displayfeature.V1_0.IDisplayFeature;
 import org.lineageos.settings.R;
+import org.lineageos.settings.utils.FileUtils;
 import org.lineageos.settings.utils.LimitSizeList;
 
 import vendor.xiaomi.hardware.motor.V1_0.IMotor;
