@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip_raphael.mk
+    $(LOCAL_DIR)/arrow_raphael.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosip_raphael-user \
-    aosip_raphael-userdebug \
-    aosip_raphael-eng
+    arrow_raphael-user \
+    arrow_raphael-userdebug \
+    arrow_raphael-eng
