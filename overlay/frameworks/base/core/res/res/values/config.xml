@@ -394,5 +394,8 @@
 
     <!-- Specifies the maximum burn-in offset vertically. -->
     <integer name="config_burnInProtectionMaxVerticalOffset">40</integer>
+
+    <!-- Show a custom view for FOD -->
+    <bool name="config_needCustomFODView">true</bool>
 </resources>
 
